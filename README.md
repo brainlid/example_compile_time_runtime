@@ -9,7 +9,7 @@ This project was created using `mix new compile_time_runtime`.
 
 ## Demonstration
 
-The code being demonstrated is in `lib/compile_time_runtime.ex`.
+The code being demonstrated is in [`lib/compile_time_runtime.ex`](./lib/compile_time_runtime.ex).
 
 Compile the project: `mix compile`
 

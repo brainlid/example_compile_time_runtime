@@ -67,7 +67,7 @@ it) in the `mix.exs` file under `deps()`.
 Dialyxir is an Elixir library that brings in Elixir friendly support for
 dialyzer.
 
-Install dialyzer):
+Install dialyzer:
 
 ```
 $ mix deps.get

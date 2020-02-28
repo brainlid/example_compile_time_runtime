@@ -16,7 +16,7 @@ Compile the project: `mix compile`
 ```shell
 $ mix compile
 Compiling 1 file (.ex)
-I\'M EVALUATED AND EXECUTED AT COMPILE TIME
+I'M EVALUATED AND EXECUTED AT COMPILE TIME
 Generated compile_time_runtime app
 ```
 
